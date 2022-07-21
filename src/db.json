@@ -1,0 +1,24 @@
+{
+    "todolist": [
+        {
+            "id": 1,
+            "name": "Nitish kumar",
+            "isChecked": false
+        },
+        {
+            "id": 2,
+            "name": "prashant kumar",
+            "isChecked": false
+        },
+        {
+            "id": 3,
+            "name": "himansu kumar",
+            "isChecked": false
+        },
+        {
+            "id": 4,
+            "name": "alok kumar",
+            "isChecked": false
+        }
+    ]
+}
